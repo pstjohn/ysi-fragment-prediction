@@ -1,0 +1,3 @@
+[submodule "fragdecomp"]
+	path = fragdecomp
+	url = git@github.com:pstjohn/fragdecomp.git
